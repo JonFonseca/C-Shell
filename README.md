@@ -1,2 +1,2 @@
 # C-Shell
-Basic Shell Created in C with history implemented
+Basic shell created in C with history implemented
